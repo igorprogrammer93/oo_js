@@ -45,8 +45,4 @@ class Veiculo {
   console.log(carro2.obterDetalhes()); // Honda Civic, Ano: 2019, Portas: 4
   console.log(moto1.obterDetalhes());  // Yamaha MT-07, Ano: 2021, Cilindradas: 689
   
-  // Instruções para armazenamento e envio:
-  // 1. No repositório do curso, crie uma branch chamada oo_js.
-  // 2. Salve este código em um arquivo chamado oo_js_exercise.js.
-  // 3. Suba a branch para o repositório e envie o link através da plataforma.
   
